@@ -1,0 +1,8 @@
+report_server/target/
+report_client/node_modules/
+report_client/dist/
+.idea/
+*.iml
+.DS_Store
+.env
+.env.*
